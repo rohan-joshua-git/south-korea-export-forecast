@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/samsung_pdfs/*.pdf
+data/customs_pdfs/*.pdf
+data/customs_pdfs/*.hwp

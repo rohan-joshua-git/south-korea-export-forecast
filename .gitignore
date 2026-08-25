@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# raw scraped source PDFs (large, regenerable from source)
+exports_forecast/data/samsung_pdfs/
+exports_forecast/data/customs_pdfs/
+
+# scratch scraping artifacts
+_tmp_*
+
+# local tool config
+.claude/
